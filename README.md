@@ -7,10 +7,12 @@ Data Structure and Algorithm
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -24,4 +26,16 @@ Data Structure and Algorithm
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
