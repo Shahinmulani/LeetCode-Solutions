@@ -40,4 +40,12 @@ Data Structure and Algorithm
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
