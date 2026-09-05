@@ -9,6 +9,7 @@ Data Structure and Algorithm
 | [1331-rank-transform-of-an-array](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,8 @@ Data Structure and Algorithm
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
