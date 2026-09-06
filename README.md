@@ -48,9 +48,14 @@ Data Structure and Algorithm
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
