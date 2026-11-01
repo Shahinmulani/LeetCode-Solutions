@@ -8,6 +8,7 @@ Data Structure and Algorithm
 | ------- |
 | [0001-two-sum](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -17,12 +18,14 @@ Data Structure and Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
