@@ -10,6 +10,7 @@ Data Structure and Algorithm
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
