@@ -9,6 +9,7 @@ Data Structure and Algorithm
 | [0001-two-sum](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -20,6 +21,7 @@ Data Structure and Algorithm
 | ------- |
 | [0001-two-sum](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -27,10 +29,12 @@ Data Structure and Algorithm
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -43,6 +47,7 @@ Data Structure and Algorithm
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -93,5 +98,6 @@ Data Structure and Algorithm
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Shahinmulani/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
